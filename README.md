@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I am Maite 💙</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Learning+Web+Development;Step+by+Step+Growth" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=191970&center=true&vCenter=true&width=435&lines=Learning+something+new+every+day;Think+Learn+Build;Small+steps+big+progress" />
 </p>
 
 <br>
