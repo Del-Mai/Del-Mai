@@ -1,10 +1,10 @@
 <h1 align="center">Hey! I am Maite 💙</h1>
 
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=343fbc&center=true&vCenter=true&width=435&lines=Learning+something+new+every+day;Think+Learn+Build;Small+steps+big+progress" />
-<p>
+</p>
 
 <br>
-
 ## ✨ About Me
 
 <p align="center">
