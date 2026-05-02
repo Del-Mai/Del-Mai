@@ -39,13 +39,7 @@ Currently, I'm learning <b>web development</b>, building projects step by step, 
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,linux,git,github,html,css" />
 </p>
 
-<br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Del-Mai&show_icons=true&theme=tokyonight" />
-</p>
