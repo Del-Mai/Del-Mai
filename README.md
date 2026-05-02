@@ -5,13 +5,13 @@
 </p>
 
 <br>
-## ✨ About Me
+✨ About Me
 
-<p align="center">
+
 I'm a computer science student, enthusiastic about new technologies and always eager to learn something new every day.<br><br>
 I enjoy learning step by step, fixing mistakes, and truly understanding how things work.<br><br>
 Currently, I'm learning <b>web development</b>, building projects step by step, and also expanding my knowledge of <b>Linux</b>.
-</p>
+<p>
 
 <br>
 
